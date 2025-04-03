@@ -1,0 +1,2 @@
+Github la irunthu vs code ku Pull panna file
+CMD: "git pull"
