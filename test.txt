@@ -1,1 +1,3 @@
 Created test.txt
+Github la edit panna file ah vs code la pakkanum na
+CMD : "git pull"
